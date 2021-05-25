@@ -15,17 +15,17 @@ iii.	MMSE (Mean ± SD)
 
 '''
 if args.info == 'NC':
-    fileName = '../data/ADNI_PHILIPS_CN_6_11_2019.csv'
-    ROI_data = '../data/ROISignals_NC.mat'
+    fileName = 'data/ADNI_PHILIPS_CN_6_11_2019.csv'
+    ROI_data = 'data/ROISignals_NC.mat'
 elif args.info == 'EMCI':
-    fileName = '../data/ADNI_philips_eMCI_6_11_2019.csv'
-    ROI_data = '../data/ROISignals_EMCI.mat'
+    fileName = 'data/ADNI_philips_eMCI_6_11_2019.csv'
+    ROI_data = 'data/ROISignals_EMCI.mat'
 elif args.info == 'LMCI':
-    fileName = '../data/ADNI_philips_LMCI_6_11_2019.csv'
-    ROI_data = '../data/ROISignals_LMCI.mat'
+    fileName = 'data/ADNI_philips_LMCI_6_11_2019.csv'
+    ROI_data = 'data/ROISignals_LMCI.mat'
 elif args.info == 'AD':
-    fileName = '../data/ADNI_philips_AD_6_10_2019.csv'
-    ROI_data = '../data/ROISignals_AD.mat'
+    fileName = 'data/ADNI_philips_AD_6_10_2019.csv'
+    ROI_data = 'data/ROISignals_AD.mat'
 else:
     assert "not incorrect info, selected in NC/EMCI/LMCI/AD"
 

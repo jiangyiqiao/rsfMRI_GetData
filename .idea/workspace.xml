@@ -54,8 +54,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="115" />
-    <option name="y" value="82" />
+    <option name="x" value="269" />
+    <option name="y" value="23" />
     <option name="width" value="1294" />
     <option name="height" value="877" />
   </component>
@@ -108,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.load_mat">
+  <component name="RunManager" selected="Python.PatientInfo">
     <configuration name="PatientInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="rsfMRI_GetData" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -122,7 +122,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/PatientInfo.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/patientInfo.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,8 +155,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.load_mat" />
         <item itemvalue="Python.PatientInfo" />
+        <item itemvalue="Python.load_mat" />
       </list>
     </recent_temporary>
   </component>
